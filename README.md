@@ -5,6 +5,7 @@
 [![Joomla](https://img.shields.io/badge/Joomla-6.x-blue)](https://www.joomla.org)
 [![PHP](https://img.shields.io/badge/PHP-8.1%2B-green)](https://www.php.net)
 [![Version](https://img.shields.io/github/v/release/ferino75/plg_system_fgstripcomments?label=Version&color=orange)](https://github.com/ferino75/plg_system_fgstripcomments/releases)
+[![JED](https://img.shields.io/badge/Joomla!%20Extensions%20Directory%E2%84%A2-StripComments-blue)](https://extensions.joomla.org/extension/extension-specific/extensions-specific-non-sorted/strip-comments/)
 [![License](https://img.shields.io/badge/License-GPLv2%2B-red)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 ![Downloads](https://img.shields.io/github/downloads/ferino75/plg_system_fgstripcomments/total?cacheSeconds=3600)
 
