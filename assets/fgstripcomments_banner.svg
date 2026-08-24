@@ -1,8 +1,8 @@
 <svg viewBox="0 0 1200 525" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0F4C5C"/>
-      <stop offset="100%" stop-color="#1B6B7A"/>
+      <stop offset="0%" stop-color="#0B3D66"/>
+      <stop offset="100%" stop-color="#1C6EA4"/>
     </linearGradient>
     <radialGradient id="glow1" cx="50%" cy="50%" r="50%">
       <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.06"/>
@@ -23,7 +23,7 @@
 
   <!-- logo column, independently vertically centered -->
   <g transform="translate(0, 88)">
-    <rect x="90" y="50" width="220" height="220" rx="40" fill="#0B3945" filter="url(#badgeShadow)"/>
+    <rect x="90" y="50" width="220" height="220" rx="40" fill="#082C4A" filter="url(#badgeShadow)"/>
     <!-- curly braces baked as vector paths (extracted from DejaVu Serif Bold);
          right brace is an exact mirror of the left -> guaranteed symmetry,
          renders identically everywhere regardless of installed fonts -->
@@ -37,7 +37,7 @@
     <text x="200" y="312" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="bold" fill="#FFFFFF" text-anchor="middle">System plugin</text>
   </g>
 
-  <!-- text column, independently vertically centered (already centered at translate 0) -->
+  <!-- text column, independently vertically centered -->
   <g transform="translate(0, 0)">
 
     <!-- title -->
@@ -47,7 +47,7 @@
     </text>
 
     <!-- tagline -->
-    <text x="392" y="148" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-style="italic" fill="#CFE7EA">Backend notes, invisible on the front-end.</text>
+    <text x="392" y="148" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-style="italic" fill="#CFE3F0">Backend notes, invisible on the front-end.</text>
 
     <!-- divider -->
     <line x1="392" y1="172" x2="1110" y2="172" stroke="#FF6B4A" stroke-width="2"/>
@@ -56,19 +56,19 @@
     <g font-family="Arial, Helvetica, sans-serif">
       <circle cx="402" cy="216" r="6" fill="#FF6B4A"/>
       <text x="422" y="224" font-size="26" font-weight="bold" fill="#FFFFFF">Two scopes</text>
-      <text x="422" y="252" font-size="20" fill="#CFE7EA">strip markers in titles &amp; links, or across the whole page</text>
+      <text x="422" y="252" font-size="20" fill="#CFE3F0">strip markers in titles &amp; links, or across the whole page</text>
 
       <circle cx="402" cy="288" r="6" fill="#FF6B4A"/>
       <text x="422" y="296" font-size="26" font-weight="bold" fill="#FFFFFF">Script/style safe</text>
-      <text x="422" y="324" font-size="20" fill="#CFE7EA">never touches your JS or CSS code</text>
+      <text x="422" y="324" font-size="20" fill="#CFE3F0">never touches your JS or CSS code</text>
 
       <circle cx="402" cy="360" r="6" fill="#FF6B4A"/>
       <text x="422" y="368" font-size="26" font-weight="bold" fill="#FFFFFF">Configurable delimiters</text>
-      <text x="422" y="396" font-size="20" fill="#CFE7EA">use {-- --} or your own custom markers</text>
+      <text x="422" y="396" font-size="20" fill="#CFE3F0">use {-- --} or your own custom markers</text>
 
       <circle cx="402" cy="432" r="6" fill="#FF6B4A"/>
       <text x="422" y="440" font-size="26" font-weight="bold" fill="#FFFFFF">Joomla 6 / PHP 8.1+</text>
-      <text x="422" y="468" font-size="20" fill="#CFE7EA">modern plugin, auto-updates via JED</text>
+      <text x="422" y="468" font-size="20" fill="#CFE3F0">modern plugin, auto-updates via JED</text>
     </g>
   </g>
 </svg>
