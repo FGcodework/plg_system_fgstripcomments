@@ -2,7 +2,7 @@
 
 # FG Strip Comments plugin for Joomla
 
-[![Version](https://img.shields.io/github/v/release/ferino75/plg_system_fgstripcomments?label=Version&color=orange)](https://github.com/ferino75/plg_system_fgstripcomments/releases)
+[![Version](https://img.shields.io/github/v/release/ferino75/plg_system_fgstripcomments?label=release&color=orange)](https://github.com/ferino75/plg_system_fgstripcomments/releases)
 [![Joomla](https://img.shields.io/badge/Joomla-6.x-blue)](https://www.joomla.org)
 [![PHP](https://img.shields.io/badge/PHP-8.1%2B-green)](https://www.php.net)
 [![JED](https://img.shields.io/badge/Joomla!%20Extensions%20Directory%E2%84%A2-StripComments-blue)](https://extensions.joomla.org/extension/extension-specific/extensions-specific-non-sorted/strip-comments/)
