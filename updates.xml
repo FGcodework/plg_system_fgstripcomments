@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <updates>
 	<update>
 		<name>System - FG Strip Comments</name>
@@ -8,15 +8,15 @@
 		<folder>system</folder>
 		<client>site</client>
 		<version>2.0.1</version>
-		<infourl title="plg_system_fgstripcomments">https://github.com/ferino75/plg_system_fgstripcomments</infourl>
+		<infourl title="plg_system_fgstripcomments">https://github.com/FGcodework/plg_system_fgstripcomments</infourl>
 		<downloads>
-			<downloadurl type="full" format="zip">https://github.com/ferino75/plg_system_fgstripcomments/releases/download/v2.0.1/plg_system_fgstripcomments_v2.0.1.zip</downloadurl>
+			<downloadurl type="full" format="zip">https://github.com/FGcodework/plg_system_fgstripcomments/releases/download/v2.0.1/plg_system_fgstripcomments_v2.0.1.zip</downloadurl>
 		</downloads>
 		<tags>
 			<tag>stable</tag>
 		</tags>
 		<maintainer>Fero</maintainer>
-		<maintainerurl>https://github.com/ferino75</maintainerurl>
+		<maintainerurl>https://github.com/FGcodework</maintainerurl>
 		<targetplatform name="joomla" version="[56]\.[0-9]+" />
 	</update>
 </updates>
