@@ -1,5 +1,12 @@
 # Changelog — plg_system_fgstripcomments
 
+## 2.0.4 – 2026-09-25
+- Restyled the Info & Support tab into two rows (info text, then a
+  spaced-out button row) instead of one cramped line. This gives the
+  Joomla admin template's automatic "opens in new tab" icons (added to
+  every `target="_blank"` link) enough breathing room instead of
+  crowding the Ko-fi badge and the text.
+
 ## 2.0.3 – 2026-09-25
 - Fixed broken Ko-fi/links in the Info & Support tab: attribute values
   used HTML-entity-escaped double quotes (`&quot;`) which did not decode
