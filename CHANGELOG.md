@@ -1,5 +1,14 @@
 # Changelog — plg_system_fgstripcomments
 
+## 2.0.7 – 2026-09-25
+- Removed the external-link icon shown in front of the Ko-fi badge. Atum
+  adds it to every `a[target="_blank"]` via a `::before` pseudo-element
+  (no built-in opt-out), and inline styles cannot reach pseudo-elements.
+  Fixed with a small rule scoped to a dedicated `fg-kofi` class
+  (specificity 0,2,1 vs Atum's 0,1,1). Verified in Chromium: the icon
+  disappears only on the Ko-fi link; the "More FG Extensions" button and
+  all other admin `_blank` links keep it.
+
 ## 2.0.6 – 2026-09-25
 - "More FG Extensions" button restyled to match the white Joomla toolbar
   buttons (e.g. "Toggle inline help"). Those use `btn btn-info`, but the
