@@ -8,12 +8,11 @@
   <img src="https://img.shields.io/github/v/release/FGcodework/plg_system_fgstripcomments?color=FF6B4A&label=release" alt="Latest release">
   <img src="https://img.shields.io/badge/Joomla-6.x-blue?logo=joomla&logoColor=white" alt="Joomla 4 | 5 | 6">
   <img src="https://img.shields.io/badge/PHP-8.1%2B-purple.svg?logo=php&logoColor=white" alt="PHP">
+  <a href="https://extensions.joomla.org/extension/extension-specific/extensions-specific-non-sorted/strip-comments/"><img src="https://img.shields.io/badge/Joomla!%20Extensions%20Directory%E2%84%A2-StripComments-blue" alt="JED"></a>
   <img src="https://img.shields.io/badge/license-GPLv2%2B-green" alt="License: GPL-2.0">
   <img src="https://img.shields.io/github/downloads/FGcodework/plg_system_fgstripcomments/total?color=brown" alt="Downloads">
   <a href="https://ko-fi.com/fgcodework"><img src="https://img.shields.io/badge/support-Ko--fi-FF6061.svg?logo=ko-fi&logoColor=white" alt="Support on Ko-fi"></a>
 </p>
-
-[![JED](https://img.shields.io/badge/Joomla!%20Extensions%20Directory%E2%84%A2-StripComments-blue)](https://extensions.joomla.org/extension/extension-specific/extensions-specific-non-sorted/strip-comments/)
 
 
 A Joomla 6 system plugin that removes internal marker tags
