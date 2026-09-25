@@ -1,5 +1,18 @@
 # Changelog — plg_system_fgstripcomments
 
+## 2.0.3 – 2026-09-25
+- Fixed broken Ko-fi/links in the Info & Support tab: attribute values
+  used HTML-entity-escaped double quotes (`&quot;`) which did not decode
+  correctly in the rendered note field, producing a broken relative URL.
+  Rewritten using single-quoted HTML attributes throughout, which need
+  no escaping inside the `.ini` value.
+- Replaced the plain "Support on Ko-fi" text link with the official
+  Ko-fi badge image, matching the style already used in README.md.
+- Shortened the intro text to "This plugin is free and open source...".
+- Renamed "More FG plugins" to "More FG Extensions".
+- Wrapped the note in a Bootstrap `alert alert-info` box so it picks up
+  the current Joomla admin template's colours automatically.
+
 ## 2.0.2 – 2026-09-25
 - Added an "Info & Support" tab to the plugin options (matching the FG
   series pattern used in FG Offline IP Whitelist): a short note about
