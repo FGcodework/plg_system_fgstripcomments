@@ -1,13 +1,19 @@
-﻿<img src="assets/fgstripcomments_banner.svg" alt="plg_system_fgstripcomments logo" />
+<p align="center">
+  <img src="assets/logo.png" width="120" alt="plg_system_fgstripcomments logo">
+</p>
 
-# FG Strip Comments plugin for Joomla
+<h1 align="center">FG Strip Comments plugin for Joomla</h1>
 
-[![Version](https://img.shields.io/github/v/release/FGcodework/plg_system_fgstripcomments?label=release&color=orange)](https://github.com/FGcodework/plg_system_fgstripcomments/releases)
-[![Joomla](https://img.shields.io/badge/Joomla-6.x-blue)](https://www.joomla.org)
-[![PHP](https://img.shields.io/badge/PHP-8.1%2B-green)](https://www.php.net)
+<p align="center">
+  <img src="https://img.shields.io/github/v/release/FGcodework/plg_system_fgstripcomments?color=FF6B4A&label=release" alt="Latest release">
+  <img src="https://img.shields.io/badge/Joomla-6.x-blue?logo=joomla&logoColor=white" alt="Joomla 4 | 5 | 6">
+  <img src="https://img.shields.io/badge/PHP-8.1%2B-purple.svg?logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/license-GPLv2%2B-green" alt="License: GPL-2.0">
+  <img src="https://img.shields.io/github/downloads/FGcodework/plg_system_fgstripcomments/total?color=brown" alt="Downloads">
+  <a href="https://ko-fi.com/fgcodework"><img src="https://img.shields.io/badge/support-Ko--fi-FF6061.svg?logo=ko-fi&logoColor=white" alt="Support on Ko-fi"></a>
+</p>
+
 [![JED](https://img.shields.io/badge/Joomla!%20Extensions%20Directory%E2%84%A2-StripComments-blue)](https://extensions.joomla.org/extension/extension-specific/extensions-specific-non-sorted/strip-comments/)
-[![License](https://img.shields.io/badge/License-GPLv2%2B-red)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
-![Downloads](https://img.shields.io/github/downloads/FGcodework/plg_system_fgstripcomments/total?cacheSeconds=3600)
 
 
 A Joomla 6 system plugin that removes internal marker tags
