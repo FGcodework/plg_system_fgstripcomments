@@ -1,5 +1,12 @@
 # Changelog — plg_system_fgstripcomments
 
+## 2.0.5 – 2026-09-25
+- Removed the blue `alert-info` background from the Info & Support tab
+  — plain text now, no colour box.
+- "More FG Extensions" restyled from a plain text link into a proper
+  `btn btn-secondary` button, matching the Joomla admin template's own
+  button style and giving it visual weight comparable to the Ko-fi badge.
+
 ## 2.0.4 – 2026-09-25
 - Restyled the Info & Support tab into two rows (info text, then a
   spaced-out button row) instead of one cramped line. This gives the
