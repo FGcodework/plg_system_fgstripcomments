@@ -1,5 +1,14 @@
 # Changelog — plg_system_fgstripcomments
 
+## 2.0.6 – 2026-09-25
+- "More FG Extensions" button restyled to match the white Joomla toolbar
+  buttons (e.g. "Toggle inline help"). Those use `btn btn-info`, but the
+  white look actually comes from Atum's `.subhead .btn` override via the
+  `--atum-btn-*` CSS variables, so outside the toolbar `btn-info` would
+  render coloured. The button now sets Bootstrap's `--btn-*` variables to
+  the same `--atum-btn-*` values — identical look, working hover state,
+  and automatic dark-mode support.
+
 ## 2.0.5 – 2026-09-25
 - Removed the blue `alert-info` background from the Info & Support tab
   — plain text now, no colour box.
