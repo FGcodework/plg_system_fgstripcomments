@@ -1,5 +1,12 @@
 # Changelog — plg_system_fgstripcomments
 
+## 2.0.2 – 2026-09-25
+- Added an "Info & Support" tab to the plugin options (matching the FG
+  series pattern used in FG Offline IP Whitelist): a short note about
+  the plugin being free/open-source with an optional Ko-fi tip link,
+  now separated from the actual settings tab.
+- Settings moved to their own labelled "Settings" tab.
+
 ## 2.0.1 – 2026-08-02
 - Fixed the plugin display name to `System - FG Strip Comments` — the
   JED naming convention requires the `{Type} - {Extension Name}` format,
