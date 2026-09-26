@@ -64,6 +64,12 @@ shown on the public site.
 - Joomla 6 (5+)
 - PHP 8.1+
 
+## Support this project
+
+This plugin is free, open source, and always will be - no feature is locked behind a paywall. If it has saved you time, a one-off tip on Ko-fi is welcome, but entirely optional.
+
+<a href="https://ko-fi.com/fgcodework"><img src="https://storage.ko-fi.com/cdn/kofi3.png?v=4" alt="ko-fi" width="180"></a>
+
 ## License
 
 GNU General Public License v2.0 or later — see [LICENSE](LICENSE).
